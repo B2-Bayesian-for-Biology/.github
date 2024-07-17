@@ -23,9 +23,10 @@ Welcome to B2-Bayesian for Biology, a collaborative organization dedicated to st
 
 ## Contributions
 
-B2-Bayesian for Biology is a multi-university venture, led by scientists from:
-- The University of Tennessee, Knoxville (UTK)
-- The University of Maryland (UMD)
+B2-Bayesian for Biology is an international multi-university venture, led by scientists from:
+- The University of Tennessee, Knoxville (UTK), USA.
+- The University of Maryland (UMD), USA.
+- Banyuls-sur-Mer, France.
 - You 🧙
 
 We are open to contributions from researchers, students, and professionals across the globe. Whether you are a seasoned Bayesian statistician or a beginner interested in learning more about this fascinating field, your input and participation are welcome.
