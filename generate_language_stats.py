@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 org_name = 'B2-Bayesian'
 
 # GitHub API to fetch repositories
-repos_url = f'https://api.github.com/orgs/{org_name}/repos'
+repos_url = f'https://api.github.com/orgs/B2-Bayesian-for-Biology/repos'
 repos = requests.get(repos_url).json()
 
 # Initialize a dictionary to store language usage
