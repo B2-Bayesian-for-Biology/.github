@@ -38,3 +38,7 @@ Our organization embraces a multi-language approach, utilizing the strengths of 
 - **Python**
 - **Julia**
 - **MATLAB**
+
+## Reach out:
+
+Currently this is managed by Raunak Dey (rdey@umd.edu). Feel free to reach out to me with questions, comments and suggestions. This project is led by Prof. David Talmy (U.T.K.)
